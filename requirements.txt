@@ -1,0 +1,12 @@
+numpy
+matplotlib
+seaborn
+pillow
+opencv-python
+tqdm
+torch
+torchvision
+scikit-learn
+jupyter
+flask
+werkzeug
